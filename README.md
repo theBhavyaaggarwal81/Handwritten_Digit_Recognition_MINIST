@@ -8,3 +8,5 @@
 - Run `HWR_GUI.py`.
 
 ## Screenshots
+ ![Imahe 1](https://github.com/theBhavyaaggarwal81/Handwritten_Digit_Recognition_MINIST/blob/main/Screenshot%20(49).png)
+ ![Imahe 2](https://github.com/theBhavyaaggarwal81/Handwritten_Digit_Recognition_MINIST/blob/main/Screenshot%20(50).png)
